@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.heading {
+  background-color: aliceblue;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  padding-top: 10px;
+}
+
+.description {
+  background-color: aliceblue;
+}
+
+.ingredient {
+  background-color: aliceblue;
+}
+
+.steps {
+  background-color: aliceblue;
+}
